@@ -1,0 +1,2 @@
+# MyManager
+Daily Manager 
